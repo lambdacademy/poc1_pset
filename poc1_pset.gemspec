@@ -14,4 +14,6 @@ Gem::Specification.new do |gem|
   gem.name          = "poc1_pset"
   gem.require_paths = ["lib"]
   gem.version       = Poc1Pset::VERSION
+
+  #gem.add_dependency "rspec"
 end
