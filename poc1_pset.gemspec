@@ -4,8 +4,8 @@ require File.expand_path('../lib/poc1_pset/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Greg Belote"]
   gem.email         = ["etoleb@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Checker gem for pset1}
+  gem.summary       = %q{Checker gem for pset1}
   gem.homepage      = ""
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
