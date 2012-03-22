@@ -1,4 +1,4 @@
-require 'lambdalib/problem'
+require 'lambdalib'
 
 module Poc1Pset
   class Pset < Lambdalib::Pset
